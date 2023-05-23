@@ -10,6 +10,11 @@
   "author": "Luiz Felipe <luiz@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^4.17.0"
+    "@fastify/jwt": "^6.7.1",
+    "fastify": "^4.17.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3"
   }
 }
